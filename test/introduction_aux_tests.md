@@ -1,6 +1,6 @@
 # Introduction aux tests
 
-## 22/05/2021
+## 22/03/2021
 
 Le principal objectif des tests repose dans la detection de bugs, non dans la validation du fonctionnement de l'app. 
 
